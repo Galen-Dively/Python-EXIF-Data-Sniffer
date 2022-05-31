@@ -1,0 +1,1 @@
+Images the program will scan will be in this directory
